@@ -1,0 +1,546 @@
+1: Gnarls Barkley- Crazy (2006) 
+[]
+['Danger Mouse', 'CeeLo Green', 'Danger Doom', 'N.E.R.D.', 'Gorillaz', 'The Roots', 'RJD2', 'Mark Ronson', 'Janelle Monáe', 'Mos Def']
+
+
+2: Beyoncé- Single Ladies (Put a Ring on It) (2009) 
+['dance pop', 'pop', 'r&b']
+["Destiny's Child", 'Kelly Rowland', 'Alicia Keys', 'Rihanna', 'Ciara', 'Keri Hilson', 'Justin Timberlake', 'Mariah Carey', 'Christina Aguilera', 'Cassie']
+
+
+3: Rihanna- SOS (2006) 
+['dance pop', 'pop', 'pop christmas', 'r&b', 'soul christmas', 'urban contemporary']
+['The Pussycat Dolls', 'Ciara', 'Fergie', "Destiny's Child", 'Nicki Minaj', 'Beyoncé', 'Jennifer Lopez', 'Britney Spears', 'Chris Brown', 'Tinashe']
+
+
+4: Gwen Stefani- Hollaback Girl (2004) 
+['dance pop', 'europop', 'hip pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'r&b', 'urban contemporary']
+['Ashlee Simpson', 'Nelly Furtado', 'The Pussycat Dolls', 'Fergie', 'Nicole Scherzinger', 'Natasha Bedingfield', 'Hilary Duff', 'No Doubt', 'Paris Hilton', 'Christina Aguilera']
+
+
+5: Santigold- Disparate Youth (2012) 
+['alternative dance', 'dance-punk', 'escape room', 'hip pop', 'indie pop', 'indie r&b', 'indie rock', 'indietronica', 'new rave', 'pop', 'shimmer pop', 'synthpop']
+['Sleigh Bells', 'M.I.A.', 'CSS', 'Lykke Li', 'Chairlift', 'Yeah Yeah Yeahs', 'Ladyhawke', 'Little Dragon', 'Phantogram', 'Cults']
+
+
+6: Justin Timberlake- SexyBack (2006) 
+['boy band', 'dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']
+['Ne-Yo', 'Pharrell Williams', 'Robin Thicke', "Destiny's Child", 'Ciara', 'Alicia Keys', 'Gwen Stefani', 'Timbaland', 'The Pussycat Dolls', 'Christina Aguilera']
+
+
+7: Shakira- Hips Don't Lie (2006) 
+['dance pop', 'latin', 'latin pop', 'pop']
+['Ricky Martin', 'Jennifer Lopez', 'Enrique Iglesias', 'Marc Anthony', 'Juanes', 'Thalía', 'Paulina Rubio', 'Pitbull', 'Nelly Furtado', 'Alejandro Sanz']
+
+
+8: Leona Lewis- Bleeding Love (2007) 
+['dance pop', 'europop', 'neo mellow', 'pop', 'pop christmas', 'post-teen pop', 'r&b', 'talent show', 'urban contemporary', 'viral pop']
+['Alexandra Burke', 'Jordin Sparks', 'Natasha Bedingfield', 'Nicole Scherzinger', 'Pixie Lott', 'Kelly Clarkson', 'The Saturdays', 'Shontelle', 'Shayne Ward', 'Rita Ora']
+
+
+9: Katy Perry- I Kissed a Girl (2008) 
+['dance pop', 'pop', 'pop christmas', 'post-teen pop']
+['Kesha', 'Kelly Clarkson', 'Gwen Stefani', 'Lady Gaga', 'Avril Lavigne', 'P!nk', 'Britney Spears', 'Hilary Duff', 'Taylor Swift', 'Meghan Trainor']
+
+
+10: Kanye West- Gold Digger (2005) 
+['pop', 'pop christmas', 'pop rap', 'rap']
+['JAY Z', 'Kid Cudi', 'Drake', 'J. Cole', 'Big Sean', 'Eminem', 'Lil Wayne', 'Timbaland', 'Lupe Fiasco', 'T.I.']
+
+
+11
+M.I.A.: Bad Girls (2013) 
+['dance pop', 'escape room', 'hip pop', 'indie r&b', 'new rave', 'pop', 'synthpop']
+['Santigold', 'Rye Rye', 'Elliphant', 'Azealia Banks', 'Peaches', 'Lady Sovereign', 'Kelis', 'Major Lazer', 'La Roux', 'Janelle Monáe']
+
+
+12
+The Killers: Mr. Brightside (2005) 
+['alternative rock', 'indie christmas', 'indie pop', 'indie rock', 'neo mellow', 'permanent wave', 'pop christmas', 'pop rock', 'rock', 'vegas indie']
+['The Strokes', 'Franz Ferdinand', 'Brandon Flowers', 'Kaiser Chiefs', 'Kasabian', 'The Kooks', 'Razorlight', 'Bloc Party', 'The Fratellis', 'Kings of Leon']
+
+
+13
+The All-American Rejects: Move Along (2005) 
+['emo', 'neo mellow', 'pop', 'pop punk', 'pop rap', 'pop rock', 'post-grunge', 'post-teen pop']
+['Boys Like Girls', 'Yellowcard', 'We The Kings', "Plain White T's", 'Good Charlotte', 'Simple Plan', 'Bowling For Soup', 'Mayday Parade', 'Cute Is What We Aim For', 'All Time Low']
+
+
+14
+Red Hot Chili Peppers: Dani California (2006) 
+['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']
+['Rage Against The Machine', 'Audioslave', 'Foo Fighters', 'John Frusciante', 'Nirvana', 'Stone Temple Pilots', 'Incubus', 'Queens of the Stone Age', 'Soundgarden', 'The Smashing Pumpkins']
+
+
+15
+The Fray: How to Save a Life (2005) 
+['neo mellow', 'piano rock', 'pop', 'pop christmas', 'pop rock', 'post-grunge', 'viral pop']
+['Augustana', 'Lifehouse', 'Five For Fighting', 'Train', 'OneRepublic', 'The Script', 'Parachute', 'Daughtry', 'Rob Thomas', 'Howie Day']
+
+
+16
+The All-American Rejects: Dirty Little Secret (2005) 
+['emo', 'neo mellow', 'pop', 'pop punk', 'pop rap', 'pop rock', 'post-grunge', 'post-teen pop']
+['Boys Like Girls', 'Yellowcard', 'We The Kings', "Plain White T's", 'Good Charlotte', 'Simple Plan', 'Bowling For Soup', 'Mayday Parade', 'Cute Is What We Aim For', 'All Time Low']
+
+
+17
+Fergie: Big Girls Don't Cry (Personal) (2010) 
+['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']
+['The Pussycat Dolls', 'Nicole Scherzinger', 'Gwen Stefani', 'Nelly Furtado', 'The Black Eyed Peas', 'Kesha', 'Natasha Bedingfield', 'Jordin Sparks', 'Hilary Duff', 'Ashlee Simpson']
+
+
+18
+Gwen Stefani: Rich Girl (2004) 
+['dance pop', 'europop', 'hip pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'r&b', 'urban contemporary']
+['Ashlee Simpson', 'Nelly Furtado', 'The Pussycat Dolls', 'Fergie', 'Nicole Scherzinger', 'Natasha Bedingfield', 'Hilary Duff', 'No Doubt', 'Paris Hilton', 'Christina Aguilera']
+
+
+19
+Ciara: One, Two Step (2004) 
+['dance pop', 'deep pop r&b', 'dwn trap', 'hip pop', 'neo soul', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'southern hip hop', 'urban contemporary']
+['Kelly Rowland', 'Keri Hilson', 'Christina Milian', 'Keyshia Cole', 'Cassie', 'Ashanti', 'Jazmine Sullivan', 'Danity Kane', 'Brandy', 'Mýa']
+
+
+20
+Kanye West: Stronger (2007) 
+['pop', 'pop christmas', 'pop rap', 'rap']
+['JAY Z', 'Kid Cudi', 'Drake', 'J. Cole', 'Big Sean', 'Eminem', 'Lil Wayne', 'Timbaland', 'Lupe Fiasco', 'T.I.']
+
+
+21
+Coldplay: Viva La Vida (2008) 
+['permanent wave', 'pop', 'pop christmas', 'rock']
+['Keane', 'Snow Patrol', 'The Killers', 'Travis', 'James Blunt', 'OneRepublic', 'The Fray', 'Muse', 'Oasis', 'U2']
+
+
+22
+Rihanna: Pon De Replay (2005) 
+['dance pop', 'pop', 'pop christmas', 'r&b', 'soul christmas', 'urban contemporary']
+['The Pussycat Dolls', 'Ciara', 'Fergie', "Destiny's Child", 'Nicki Minaj', 'Beyoncé', 'Jennifer Lopez', 'Britney Spears', 'Chris Brown', 'Tinashe']
+
+
+23
+Kelly Clarkson: Since U Been Gone (2004) 
+['dance pop', 'neo mellow', 'pop', 'pop christmas', 'pop rock', 'post-teen pop', 'r&b', 'talent show', 'viral pop']
+['Hilary Duff', 'Ashlee Simpson', 'Natasha Bedingfield', 'Jordin Sparks', 'Leona Lewis', 'Ashley Tisdale', 'Michelle Branch', 'P!nk', 'Avril Lavigne', 'Jessica Simpson']
+
+
+24
+Fall Out Boy: Sugar, We're Goin Down (2005) 
+['emo', 'pop punk', 'pop rock']
+['Panic! At The Disco', 'All Time Low', 'My Chemical Romance', 'Yellowcard', 'Mayday Parade', 'The Cab', 'We The Kings', 'The All-American Rejects', 'Cobra Starship', 'Good Charlotte']
+
+
+25
+Panic! At The Disco: I Write Sins Not Tragedies (2005) 
+['emo', 'pop punk', 'vegas indie']
+['Fall Out Boy', 'All Time Low', 'The Cab', 'Mayday Parade', 'My Chemical Romance', 'We The Kings', 'Cobra Starship', 'Paramore', 'The Academy Is...', 'Cute Is What We Aim For']
+
+
+26
+The Pussycat Dolls: Don't Cha (2005) 
+['dance pop', 'europop', 'hip pop', 'pop', 'pop christmas', 'pop rap', 'post-teen pop', 'r&b', 'soul christmas', 'urban contemporary']
+['Nicole Scherzinger', 'Kat Deluna', 'Fergie', 'Jordin Sparks', 'Gwen Stefani', 'Natasha Bedingfield', 'Danity Kane', 'Nelly Furtado', 'The Saturdays', 'JoJo']
+
+
+27
+Rihanna: Umbrella (2007) 
+['dance pop', 'pop', 'pop christmas', 'r&b', 'soul christmas', 'urban contemporary']
+['The Pussycat Dolls', 'Ciara', 'Fergie', "Destiny's Child", 'Nicki Minaj', 'Beyoncé', 'Jennifer Lopez', 'Britney Spears', 'Chris Brown', 'Tinashe']
+
+
+28
+The Black Eyed Peas: Don't Phunk With My Heart (2004) 
+['dance pop', 'pop', 'pop rap', 'post-teen pop']
+['will.i.am', 'Fergie', 'The Pussycat Dolls', 'Far East Movement', 'Nelly Furtado', 'Timbaland', 'Gwen Stefani', 'LMFAO', 'Taio Cruz', 'Jennifer Lopez']
+
+
+29
+Snoop Dogg: Drop It Like It's Hot (2004) 
+['g funk', 'gangster rap', 'hip hop', 'pop christmas', 'pop rap', 'rap', 'southern hip hop', 'west coast rap']
+['Ice Cube', 'Warren G', 'Xzibit', 'Westside Connection', 'Eazy-E', 'DJ Quik', 'Tha Dogg Pound', 'Dr. Dre', 'Nate Dogg', 'Kurupt']
+
+
+30
+Gorillaz: Feel Good Inc (2005) 
+['alternative rock', 'rock']
+['Gnarls Barkley', 'Blur', 'Damon Albarn', 'The Chemical Brothers', 'Franz Ferdinand', 'The White Stripes', 'Kasabian', 'Ratatat', 'MGMT', 'Fatboy Slim']
+
+
+31
+Daniel Powter: Bad Day (2005) 
+['acoustic pop', 'canadian pop', 'folk christmas', 'neo mellow', 'pop', 'pop christmas', 'pop rock']
+['James Morrison', 'James Blunt', 'Five For Fighting', 'Howie Day', 'Train', 'Jason Mraz', 'Jon McLaughlin', 'Gavin DeGraw', 'Colbie Caillat', 'The Script']
+
+
+32
+Natasha Bedingfield: Unwritten (2004) 
+['dance pop', 'europop', 'neo mellow', 'pop', 'pop christmas', 'pop rock', 'post-teen pop', 'r&b']
+['Pixie Lott', 'Kelly Clarkson', 'Nelly Furtado', 'Ashlee Simpson', 'Leona Lewis', 'Jordin Sparks', 'Hilary Duff', 'Sugababes', 'The Pussycat Dolls', 'Stacie Orrico']
+
+
+33
+The Black Eyed Peas: My Humps (2004) 
+['dance pop', 'pop', 'pop rap', 'post-teen pop']
+['will.i.am', 'Fergie', 'The Pussycat Dolls', 'Far East Movement', 'Nelly Furtado', 'Timbaland', 'Gwen Stefani', 'LMFAO', 'Taio Cruz', 'Jennifer Lopez']
+
+
+34
+Chamillionaire: Ridin' Dirty (feat. Chamillionaire) (2010) 
+['crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap music']
+['Slim Thug', 'Paul Wall', 'Young Buck', 'Bun B', "Lil' Flip", 'David Banner', 'Pimp C', 'Lil Scrappy', 'Lil Keke', 'Z-Ro']
+
+
+35
+Green Day: Holiday/Boulevard Of Broken Dreams (2004) 
+['permanent wave', 'pop punk', 'pop rock', 'punk', 'rock']
+['The Offspring', 'blink-182', 'Good Charlotte', 'Bowling For Soup', 'Sum 41', 'Yellowcard', 'My Chemical Romance', 'New Found Glory', 'Simple Plan', 'Jimmy Eat World']
+
+
+36
+Nelly: Over And Over - Album Version / Explicit (2004) 
+['dance pop', 'dirty south rap', 'dwn trap', 'gangster rap', 'hip hop', 'hip pop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']
+['Chingy', 'Ja Rule', 'Ludacris', 'Bow Wow', 'T-Pain', 'Baby Bash', 'Ying Yang Twins', 'Diddy', 'Twista', 'Akon']
+
+
+37
+Nelly Furtado: Promiscuous (2010) 
+['canadian pop', 'dance pop', 'europop', 'hip pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'r&b', 'urban contemporary']
+['Natasha Bedingfield', 'Gwen Stefani', 'The Pussycat Dolls', 'Nicole Scherzinger', 'Sugababes', 'Fergie', 'Ashlee Simpson', 'Natalie Imbruglia', 'Jennifer Lopez', 'All Saints']
+
+
+38
+James Blunt: You're Beautiful (2005) 
+['neo mellow', 'pop', 'pop rock', 'viral pop']
+['Daniel Powter', 'James Morrison', 'Jason Mraz', 'The Script', 'Snow Patrol', 'Train', 'Robbie Williams', 'MIKA', 'The Fray', 'Gavin DeGraw']
+
+
+39
+Mary J. Blige: Be Without You - Live (2006) 
+['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'new jack swing', 'pop', 'pop christmas', 'pop rap', 'quiet storm', 'r&b', 'soul', 'soul christmas', 'urban contemporary']
+['Faith Evans', 'Monica', 'Fantasia', 'Brandy', 'Jazmine Sullivan', 'Keyshia Cole', 'Kelly Price', 'Toni Braxton', 'Xscape', 'SWV']
+
+
+40
+The Fray: Over My Head (Cable Car) (2005) 
+['neo mellow', 'piano rock', 'pop', 'pop christmas', 'pop rock', 'post-grunge', 'viral pop']
+['Augustana', 'Lifehouse', 'Five For Fighting', 'Train', 'OneRepublic', 'The Script', 'Parachute', 'Daughtry', 'Rob Thomas', 'Howie Day']
+
+
+41
+The Pussycat Dolls: Buttons (2007) 
+['dance pop', 'europop', 'hip pop', 'pop', 'pop christmas', 'pop rap', 'post-teen pop', 'r&b', 'soul christmas', 'urban contemporary']
+['Nicole Scherzinger', 'Kat Deluna', 'Fergie', 'Jordin Sparks', 'Gwen Stefani', 'Natasha Bedingfield', 'Danity Kane', 'Nelly Furtado', 'The Saturdays', 'JoJo']
+
+
+42
+Snow Patrol: Chasing Cars (2006) 
+['folk-pop', 'indie christmas', 'irish rock', 'neo mellow', 'permanent wave', 'pop', 'pop christmas', 'pop rock', 'rock']
+['Athlete', 'Keane', 'Travis', 'Razorlight', 'Stereophonics', 'Thirteen Senses', 'Kaiser Chiefs', 'Feeder', 'Starsailor', 'Embrace']
+
+
+43
+Christina Aguilera: Ain't No Other Man (2006) 
+['dance pop', 'pop', 'pop christmas', 'post-teen pop', 'r&b']
+['Jessica Simpson', 'The Pussycat Dolls', 'Britney Spears', 'Jennifer Lopez', 'Gwen Stefani', 'Leona Lewis', 'Kelly Clarkson', 'Nicole Scherzinger', 'Ashlee Simpson', 'Nelly Furtado']
+
+
+44
+Beyoncé: Irreplaceable (2007) 
+['dance pop', 'pop', 'r&b']
+["Destiny's Child", 'Kelly Rowland', 'Alicia Keys', 'Rihanna', 'Ciara', 'Keri Hilson', 'Justin Timberlake', 'Mariah Carey', 'Christina Aguilera', 'Cassie']
+
+
+45
+Gwen Stefani: The Sweet Escape (2006) 
+['dance pop', 'europop', 'hip pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop', 'r&b', 'urban contemporary']
+['Ashlee Simpson', 'Nelly Furtado', 'The Pussycat Dolls', 'Fergie', 'Nicole Scherzinger', 'Natasha Bedingfield', 'Hilary Duff', 'No Doubt', 'Paris Hilton', 'Christina Aguilera']
+
+
+46
+Carrie Underwood: Before He Cheats (2005) 
+['contemporary country', 'country', 'country christmas', 'country dawn', 'country road', 'dance pop', 'neo mellow', 'pop', 'pop christmas', 'post-teen pop']
+['Miranda Lambert', 'Lady Antebellum', 'Kellie Pickler', 'Faith Hill', 'The Band Perry', 'Sara Evans', 'Keith Urban', 'Reba McEntire', 'Little Big Town', 'Martina McBride']
+
+
+47
+Soulja Boy: Crank That (Soulja Boy) (2007) 
+['crunk', 'dance pop', 'dirty south rap', 'dwn trap', 'gangster rap', 'hip hop', 'hip pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']
+['Yung Joc', 'Dem Franchize Boyz', 'Unk', 'Young Money', 'Waka Flocka Flame', 'Travis Porter', 'Ying Yang Twins', 'Hurricane Chris', 'V.I.C.', 'David Banner']
+
+
+48
+Justin Timberlake: My Love (2006) 
+['boy band', 'dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']
+['Ne-Yo', 'Pharrell Williams', 'Robin Thicke', 'Ciara', "Destiny's Child", 'Alicia Keys', 'Gwen Stefani', 'Timbaland', 'The Pussycat Dolls', 'Christina Aguilera']
+
+
+49
+Flo Rida: Low (feat T-Pain) (2008) 
+['dance pop', 'pop', 'pop rap', 'post-teen pop', 'tropical house']
+['Pitbull', 'Taio Cruz', 'will.i.am', 'Jason Derulo', 'Sean Kingston', 'B.o.B', 'Timbaland', 'LMFAO', 'Far East Movement', 'Jay Sean']
+
+
+50
+Alicia Keys: No One (2008) 
+['hip pop', 'indie r&b', 'neo mellow', 'pop', 'pop christmas', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']
+['Mary J. Blige', 'Jazmine Sullivan', 'Toni Braxton', 'Jill Scott', 'Ciara', 'Brandy', 'Mariah Carey', "Destiny's Child", 'Keyshia Cole', 'Erykah Badu']
+
+
+51
+Sara Bareilles: Love Song (2007) 
+['acoustic pop', 'dance pop', 'folk christmas', 'folk-pop', 'lilith', 'neo mellow', 'pop', 'pop christmas', 'pop rock', 'post-teen pop', 'singer-songwriter', 'viral pop']
+['Colbie Caillat', 'Michelle Branch', 'Vanessa Carlton', 'A Fine Frenzy', 'Rachael Yamagata', 'Ingrid Michaelson', 'Anna Nalick', 'Tristan Prettyman', 'Kina Grannis', 'Rachel Platten']
+
+
+52
+Rihanna: Disturbia (2007) 
+['dance pop', 'pop', 'pop christmas', 'r&b', 'soul christmas', 'urban contemporary']
+['The Pussycat Dolls', 'Ciara', 'Fergie', "Destiny's Child", 'Nicki Minaj', 'Beyoncé', 'Jennifer Lopez', 'Britney Spears', 'Chris Brown', 'Tinashe']
+
+
+53
+The Black Eyed Peas: Boom Boom Pow (2009) 
+['dance pop', 'pop', 'pop rap', 'post-teen pop']
+['will.i.am', 'Fergie', 'The Pussycat Dolls', 'Far East Movement', 'Nelly Furtado', 'Timbaland', 'Gwen Stefani', 'LMFAO', 'Taio Cruz', 'Jennifer Lopez']
+
+
+54
+Lady Gaga: Poker Face (2009) 
+['dance pop', 'pop', 'pop christmas', 'post-teen pop']
+['Kesha', 'Gwen Stefani', 'Katy Perry', 'Madonna', 'Britney Spears', 'Christina Aguilera', 'P!nk', 'The Pussycat Dolls', 'Fergie', 'Adam Lambert']
+
+
+55
+The All-American Rejects: Gives You Hell (2008) 
+['emo', 'neo mellow', 'pop', 'pop punk', 'pop rap', 'pop rock', 'post-grunge', 'post-teen pop']
+['Boys Like Girls', 'Yellowcard', 'We The Kings', "Plain White T's", 'Good Charlotte', 'Simple Plan', 'Bowling For Soup', 'Mayday Parade', 'Cute Is What We Aim For', 'All Time Low']
+
+
+56
+Kings of Leon: Use Somebody (2008) 
+['alternative rock', 'indie pop', 'indie rock', 'neo mellow', 'rock']
+['The Strokes', 'Kasabian', 'The Killers', 'Kaiser Chiefs', 'The Black Keys', 'Franz Ferdinand', 'The Libertines', 'Stereophonics', 'The Kooks', 'Razorlight']
+
+
+57
+Pitbull: I Know You Want Me (Calle Ocho) (2009) 
+['dance pop', 'latin', 'pop', 'pop rap']
+['Flo Rida', 'Taio Cruz', 'LMFAO', 'will.i.am', 'Jason Derulo', 'Enrique Iglesias', 'Juan Magán', 'Inna', 'Gente De Zona', 'Wisin']
+
+
+58
+Beyoncé: Halo (2008) 
+['dance pop', 'pop', 'r&b']
+["Destiny's Child", 'Kelly Rowland', 'Alicia Keys', 'Rihanna', 'Ciara', 'Keri Hilson', 'Justin Timberlake', 'Mariah Carey', 'Christina Aguilera', 'Cassie']
+
+
+59
+Katy Perry: Hot N Cold (2008) 
+['dance pop', 'pop', 'pop christmas', 'post-teen pop']
+['Kesha', 'Kelly Clarkson', 'Gwen Stefani', 'Lady Gaga', 'Avril Lavigne', 'P!nk', 'Britney Spears', 'Taylor Swift', 'Meghan Trainor', 'Hilary Duff']
+
+
+60
+Miley Cyrus: Party In The U.S.A. (2009) 
+['dance pop', 'pop', 'pop christmas', 'post-teen pop', 'viral pop']
+['Vanessa Hudgens', 'Hilary Duff', 'Ashley Tisdale', 'Demi Lovato', 'Hannah Montana', 'Selena Gomez & The Scene', 'Jonas Brothers', 'Selena Gomez', 'The Cheetah Girls', 'Aly & AJ']
+
+
+61
+Kesha: TiK ToK (2010) 
+['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'teen pop', 'viral pop']
+['Hilary Duff', 'Ashlee Simpson', 'Natalia Kills', 'Nicole Scherzinger', 'The Pussycat Dolls', 'Katy Perry', 'Fergie', 'Ashley Tisdale', 'Kelly Clarkson', 'Cher Lloyd']
+
+
+62
+Lady Antebellum: Need You Now (2010) 
+['contemporary country', 'country', 'country christmas', 'country dawn', 'country road', 'neo mellow', 'pop', 'pop christmas', 'pop rock']
+['Gloriana', 'Little Big Town', 'The Band Perry', 'Miranda Lambert', 'Rascal Flatts', 'Kellie Pickler', 'Sara Evans', 'Thompson Square', 'Faith Hill', 'Carrie Underwood']
+
+
+63
+Train: Hey, Soul Sister (2009) 
+['neo mellow', 'pop', 'pop christmas', 'pop rap', 'pop rock', 'post-grunge', 'viral pop']
+['Rob Thomas', 'Matchbox Twenty', 'Five For Fighting', 'The Goo Goo Dolls', 'Vertical Horizon', 'Lifehouse', 'The Fray', 'Counting Crows', 'Matt Nathanson', 'Third Eye Blind']
+
+
+64
+Usher: OMG (2010) 
+['dance pop', 'dwn trap', 'pop', 'pop christmas', 'pop rap', 'r&b', 'rap', 'urban contemporary']
+['Ginuwine', 'Ne-Yo', 'Mario', 'Lloyd', 'Omarion', 'Trey Songz', 'Tyrese', 'Jagged Edge', '112', 'The-Dream']
+
+
+65
+Eminem: Love The Way You Lie (2010) 
+['detroit hip hop', 'g funk', 'hip hop', 'pop rap', 'rap']
+['D12', 'Bad Meets Evil', '50 Cent', 'Dr. Dre', 'T.I.', 'Yelawolf', 'DMX', 'Ludacris', 'Tech N9ne', 'The Game']
+
+
+66
+Enrique Iglesias: I Like It (2010) 
+['dance pop', 'latin', 'latin pop', 'pop', 'tropical']
+['Ricky Martin', 'Paulina Rubio', 'Chayanne', 'Juanes', 'Carlos Baute', 'Luis Fonsi', 'Cristian Castro', 'Thalía', 'Franco De Vita', 'Alejandro Sanz']
+
+
+67
+Bruno Mars: Just The Way You Are (2010) 
+['dance pop', 'pop']
+['Jason Derulo', 'Justin Timberlake', 'Ne-Yo', 'Olly Murs', 'Jessie J', 'Jason Mraz', 'Charlie Puth', 'Maroon 5', 'Pharrell Williams', 'Alicia Keys']
+
+
+68
+Adele: Rolling in the Deep (2010) 
+['dance pop', 'pop']
+['Jessie J', 'Leona Lewis', 'Ellie Goulding', 'P!nk', 'Kelly Clarkson', 'Sam Smith', 'Emeli Sandé', 'Amy Winehouse', 'Birdy', 'Alicia Keys']
+
+
+69
+Bruno Mars: Grenade (2010) 
+['dance pop', 'pop']
+['Jason Derulo', 'Justin Timberlake', 'Ne-Yo', 'Olly Murs', 'Jessie J', 'Jason Mraz', 'Charlie Puth', 'Maroon 5', 'Pharrell Williams', 'Alicia Keys']
+
+
+70
+Nicki Minaj: Super Bass (2010) 
+['dance pop', 'hip pop', 'pop', 'pop rap']
+['Ciara', 'Kesha', 'Tinashe', 'Keri Hilson', 'Iggy Azalea', 'Fergie', 'Kelly Rowland', 'Trey Songz', "Destiny's Child", 'Young Money']
+
+
+71
+Maroon 5: Moves Like Jagger - Studio Recording From The Voice Performance (2010) 
+['dance pop', 'pop', 'pop christmas']
+['OneRepublic', 'Train', 'The Script', 'The Fray', 'Jason Mraz', 'Colbie Caillat', 'Kelly Clarkson', 'Olly Murs', 'Katy Perry', 'Gavin DeGraw']
+
+
+72
+Foster The People: Pumped Up Kicks (2011) 
+['alternative dance', 'folk-pop', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'pop']
+['Grouplove', 'Passion Pit', 'Two Door Cinema Club', 'MGMT', 'Phoenix', 'Capital Cities', 'Vampire Weekend', 'Young the Giant', 'The Naked And Famous', 'Miike Snow']
+
+
+73
+Britney Spears: Till the World Ends (2011) 
+['dance pop', 'pop', 'pop christmas', 'post-teen pop', 'r&b']
+['Hilary Duff', 'Jennifer Lopez', 'Christina Aguilera', 'Gwen Stefani', 'The Pussycat Dolls', 'Kelly Clarkson', 'Ashlee Simpson', 'Kesha', 'JoJo', 'Nicole Scherzinger']
+
+
+74
+Hot Chelle Rae: Tonight Tonight (2011) 
+['dance pop', 'emo', 'neo mellow', 'pop', 'pop christmas', 'pop punk', 'pop rock', 'post-teen pop', 'punk christmas', 'teen pop', 'viral pop']
+['The Summer Set', 'The Ready Set', 'Allstar Weekend', 'Boys Like Girls', 'Stereo Skyline', 'We The Kings', 'The Downtown Fiction', 'A Rocket To The Moon', 'The Cab', 'The Maine']
+
+
+75
+The Band Perry: If I Die Young (2010) 
+['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock', 'pop']
+['Gloriana', 'Lady Antebellum', 'Little Big Town', 'Thompson Square', 'Miranda Lambert', 'Kellie Pickler', 'Jerrod Niemann', 'Pistol Annies', 'Love and Theft', 'Sugarland']
+
+
+76
+Gym Class Heroes: Stereo Hearts (feat. Adam Levine) (2011) 
+['dance pop', 'emo', 'pop', 'pop punk', 'pop rap']
+['Travie McCoy', 'Cobra Starship', '3OH!3', 'Fort Minor', 'B.o.B', 'The Academy Is...', 'Flobots', 'Kevin Rudolf', 'Fall Out Boy', 'Lupe Fiasco']
+
+
+77
+Gotye: Somebody That I Used To Know (2012) 
+['australian alternative rock']
+['Josh Pyke', 'The Temper Trap', 'Boy & Bear', 'Kimbra', 'Sarah Blasko', 'The Jezabels', 'Birds Of Tokyo', 'Broken Bells', 'Foster The People', 'Powderfinger']
+
+
+78
+Carly Rae Jepsen: Call Me Maybe (2012) 
+['canadian pop', 'dance pop', 'indie poptimism', 'pop', 'pop christmas', 'post-teen pop', 'viral pop']
+['Cher Lloyd', 'Hilary Duff', 'Rita Ora', 'JoJo', 'Natalia Kills', 'Kesha', 'Sky Ferreira', 'The Veronicas', 'Bridgit Mendler', 'Ashley Tisdale']
+
+
+79
+Maroon 5: Payphone (2012) 
+['dance pop', 'pop', 'pop christmas']
+['OneRepublic', 'Train', 'The Script', 'The Fray', 'Jason Mraz', 'Colbie Caillat', 'Kelly Clarkson', 'Olly Murs', 'Katy Perry', 'Gavin DeGraw']
+
+
+80
+The Wanted: Glad You Came (2011) 
+['boy band', 'dance pop', 'pop', 'post-teen pop', 'teen pop', 'viral pop']
+['Olly Murs', 'JLS', 'Cher Lloyd', 'The Saturdays', 'One Direction', 'Jessie J', 'Rita Ora', 'Conor Maynard', 'Carly Rae Jepsen', 'Pixie Lott']
+
+
+81
+Kelly Clarkson: Stronger (What Doesn't Kill You) (2011) 
+['dance pop', 'neo mellow', 'pop', 'pop christmas', 'pop rock', 'post-teen pop', 'r&b', 'talent show', 'viral pop']
+['Hilary Duff', 'Ashlee Simpson', 'Natasha Bedingfield', 'Jordin Sparks', 'Leona Lewis', 'Ashley Tisdale', 'Michelle Branch', 'P!nk', 'Avril Lavigne', 'Jessica Simpson']
+
+
+82
+Flo Rida: Wild Ones (feat. Sia) (2011) 
+['dance pop', 'pop', 'pop rap', 'post-teen pop', 'tropical house']
+['Pitbull', 'Taio Cruz', 'will.i.am', 'Jason Derulo', 'Sean Kingston', 'B.o.B', 'Timbaland', 'LMFAO', 'Far East Movement', 'Jay Sean']
+
+
+83
+Neon Trees: Everybody Talks (2011) 
+['emo', 'folk-pop', 'indie pop', 'neo mellow', 'pop', 'pop punk', 'pop rock', 'post-teen pop']
+['New Politics', 'American Authors', 'WALK THE MOON', 'Cobra Starship', 'fun.', "Plain White T's", 'Young the Giant', 'Youngblood Hawke', 'Hot Chelle Rae', 'Hellogoodbye']
+
+
+84
+Jason Mraz: I Won't Give Up (2012) 
+['acoustic pop', 'neo mellow', 'pop', 'pop christmas', 'pop rock', 'singer-songwriter', 'viral pop']
+['John Mayer', 'Donavon Frankenreiter', 'Gavin DeGraw', 'Five For Fighting', 'Colbie Caillat', 'James Morrison', 'Sara Bareilles', 'Matt Nathanson', 'Jack Johnson', 'Joshua Radin']
+
+
+85
+Daft Punk: Get Lucky - Radio Edit (2013) 
+['electro', 'electronic', 'filter house']
+['The Chemical Brothers', 'Justice', 'Kavinsky', 'Digitalism', 'Basement Jaxx', 'Fatboy Slim', 'Breakbot', 'Röyksopp', 'Ratatat', 'deadmau5']
+
+
+86
+Imagine Dragons: Radioactive (2012) 
+['pop', 'vegas indie']
+['WALK THE MOON', 'fun.', 'Neon Trees', 'OneRepublic', 'American Authors', 'AWOLNATION', 'The Killers', 'Of Monsters and Men', 'Bastille', 'X Ambassadors']
+
+
+87
+Florida Georgia Line: Cruise - Remix (2013) 
+['contemporary country', 'country road', 'modern country rock']
+['Cole Swindell', 'Dan + Shay', 'Dustin Lynch', 'Randy Houser', 'Jake Owen', 'Justin Moore', 'Jason Aldean', 'Thomas Rhett', 'Chase Rice', 'Eric Church']
+
+
+88
+Macklemore & Ryan Lewis: Can't Hold Us - feat. Ray Dalton (2012) 
+['pop', 'pop rap']
+['Macklemore', 'Hoodie Allen', 'Chiddy Bang', 'Watsky', 'Gym Class Heroes', 'Lupe Fiasco', 'Mac Miller', 'B.o.B', 'Mike Posner', 'Hilltop Hoods']
+
+
+89
+Justin Timberlake: Mirrors (2013) 
+['boy band', 'dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']
+['Ne-Yo', 'Pharrell Williams', 'Robin Thicke', 'Ciara', "Destiny's Child", 'Alicia Keys', 'Gwen Stefani', 'Timbaland', 'The Pussycat Dolls', 'Christina Aguilera']
+
+
+90
+Selena Gomez: Come & Get It (2013) 
+['dance pop', 'pop', 'post-teen pop']
+['Selena Gomez & The Scene', 'Demi Lovato', 'Hilary Duff', 'Miley Cyrus', 'Bridgit Mendler', 'Nick Jonas', 'Vanessa Hudgens', 'Hannah Montana', 'Kesha', 'Ashley Tisdale']
+
+
+91
+P!nk: Just Give Me a Reason (2012) 
+['dance pop', 'pop', 'pop rock', 'post-teen pop', 'r&b']
+['Gwen Stefani', 'Kelly Clarkson', 'Christina Aguilera', 'Leona Lewis', 'Natasha Bedingfield', 'Avril Lavigne', 'Nelly Furtado', 'Kesha', 'The Pussycat Dolls', 'Adam Lambert']
+
+
+92
+Ariana Grande: The Way (2013) 
+['dance pop', 'pop', 'pop christmas', 'post-teen pop']
+['Selena Gomez', 'Demi Lovato', 'Bridgit Mendler', 'Selena Gomez & The Scene', 'Nick Jonas', 'Fifth Harmony', 'Meghan Trainor', 'JoJo', 'Cher Lloyd', 'Victorious Cast']
+
+
+93
+Icona Pop: I Love It (feat. Charli XCX) - Original Version (2012) 
+['candy pop', 'dance pop', 'edm', 'metropopolis', 'pop', 'post-teen pop', 'swedish synthpop', 'tropical house']
+['Rebecca & Fiona', 'Charli XCX', 'Den svenska björnstammen', 'Norlie & KKV', 'Nause', 'Daniel Adams-Ray', 'Panda Da Panda', 'Axwell /\\ Ingrosso', 'Tove Styrke', 'Miriam Bryant']
