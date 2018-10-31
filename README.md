@@ -48,7 +48,8 @@ The graph is initially undirected so these edges go both ways between vertices.
 
 Prim's Algorithm was used to create a minimum spanning tree of the data from an arbitrarily picked first song.
 
-A handed drawn represntation of the minimum spanning tree can be seen in Attached Files under `tree.jpg`.
+Here's a hand drawn representation of the minimum spanning tree.
+![Minimum Spanning Tree](tree.jpg)
 
 The algorithm returns a dictionary with every song being a key and the value associated is the song that points to it.
 
