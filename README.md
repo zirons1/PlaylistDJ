@@ -69,4 +69,6 @@ In the context of this project, the algorithm explores a branch of similarly rel
 This ensures that no matter where you are in the tree, the current song is at most only two connection away from 
   the previous and next songs.
 
+### Results
+
 The final output of this program on the playlist can be seen in Attached Files under `results.txt`.
