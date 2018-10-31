@@ -198,7 +198,7 @@ def main():
     songList = []
 
 #   Code.txt is the raw JSON output from the Spotify API
-    f = open("code.txt")
+    f = open("JSON.txt")
     response = json.loads(f.read())
 
 #   Takes list of tracks and creates list of ids
